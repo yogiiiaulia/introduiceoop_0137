@@ -7,5 +7,5 @@ class dagangan{
 };
 int main(){
     
-    dgn.printData();
+   
 }
