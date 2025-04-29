@@ -1,9 +1,13 @@
 #include <iostream>
 using namespace std;
 
-class dagangan{
+class Mahasiswa{
     public:
-    int 
+    int nim;
+    string nama;
+    float nilai;
+
+    
 };
 int main(){
     
